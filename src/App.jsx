@@ -61,7 +61,7 @@ function App() {
 
       <button onClick={() => {
         clearTimeout(timeoutId)
-        setSelectedIndex(  (Math.random() * gamesList.length).toFixed(0) )
+        setSelectedIndex(  (Math.random() * gamesList.length - 1).toFixed(0) )
       }}>Select Game</button>
     </div>
   )
