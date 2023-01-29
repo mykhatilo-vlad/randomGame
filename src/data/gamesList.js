@@ -22,7 +22,6 @@ export default [
     'Offworld',
     'Railway Empire',
     'Rebel Galaxy',
-    'Star Wars Squadrons',
     'Submerged Hidden Depths',
     'The Witcher 3',
     'The Hunter',
